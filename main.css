@@ -336,6 +336,8 @@ span {
     margin-left: 250px;
     margin-top: -1.5em;
     transition: all .2s ease-in-out;
+    height: 400px;
+    width: 300px;
 }
 
 .dog:hover {
